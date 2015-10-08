@@ -149,6 +149,7 @@ footer {
 
   .bc {
     width: 25%;
+    border: 12px solid darkblue;
   }
 
   .info {
@@ -201,7 +202,7 @@ footer {
   }
 
   .social-media {
-    margin-left: 10em;
+    margin-left: 18em;
   }
 
 }
