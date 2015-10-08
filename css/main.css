@@ -33,9 +33,9 @@ body {
 }
 
 .bc {
-  width: 30%;
+  width: 50%;
   margin: 1em auto;
-  border: 15px solid black;
+  border: 8px solid black;
   border-radius: 8em;
 }
 
@@ -72,4 +72,8 @@ p {
 .twitter {
   width: 33.33%;
   float: left;
+}
+
+footer {
+  background-color: #4ec3b4;
 }
