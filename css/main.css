@@ -18,4 +18,11 @@ html {
 
 h1 {
   font-family: 'Playball', cursive;
+  color: #fff;
+  background-color: #4ec3b4;
+  margin: 0;
+}
+
+main {
+  font-family: 'Josefin Sans', sans-serif;
 }
