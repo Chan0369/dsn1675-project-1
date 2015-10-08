@@ -16,17 +16,47 @@ html {
   box-sizing: inherit;
 }
 
+img {
+  margin: 0;
+  width: 100%;
+  display: block;
+}
+
 body {
   margin: 0;
+}
+
+.header {
+  background-color: #4ec3b4;
+  position: relative;
+}
+
+.bc {
+  width: 30%;
+  margin: 1em auto;
+  border: 15px solid black;
+  border-radius: 8em;
+}
+
+.content {
+  position: absolute;
 }
 
 h1 {
   font-family: 'Playball', cursive;
   color: #fff;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
   background-color: #4ec3b4;
-  margin: 0;
 }
 
 main {
   font-family: 'Josefin Sans', sans-serif;
+  background-color: #4ec3b4;
+}
+
+p {
+  width: 100% auto;
+  text-align: center;
 }
