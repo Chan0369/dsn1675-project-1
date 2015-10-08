@@ -148,7 +148,7 @@ footer {
 @media only screen and (min-width: 42em) {
 
   .bc {
-    width: 30%;
+    width: 25%;
   }
 
   .info {
@@ -170,6 +170,10 @@ footer {
 
   .twitter {
     width: 20%;
+  }
+
+  footer {
+    padding: 2em 1em 10em 1em;
   }
 
 }
