@@ -36,7 +36,7 @@ body {
   width: 50%;
   margin: 1em auto;
   border: 8px solid darkblue;
-  border-radius: 8em;
+  border-radius: 12em;
 }
 
 h1 {
@@ -108,4 +108,28 @@ footer {
 
 .f2 {
   margin: 0 auto;
+}
+
+@media only screen and (min-width: 40em) {
+
+  .bc {
+    width: 30%;
+  }
+
+  .social-media {
+    margin-left: 9em;
+  }
+
+  .email {
+    width: 20%;
+  }
+
+  .instagram {
+    width: 20%;
+  }
+
+  .twitter {
+    width: 20%;
+  }
+
 }
