@@ -35,7 +35,7 @@ body {
 .bc {
   width: 50%;
   margin: 1em auto;
-  border: 8px solid black;
+  border: 8px solid darkblue;
   border-radius: 8em;
 }
 
@@ -57,6 +57,7 @@ main {
 p {
   width: 100% auto;
   text-align: center;
+  color: white;
 }
 
 .info {
@@ -66,6 +67,7 @@ p {
 
 .contact {
   background-color: white;
+  padding: 1em 0em 1em 1em;
 }
 
 .social-media {
@@ -73,18 +75,22 @@ p {
 }
 
 .email {
-  width: 33.33%;
+  width: 28%;
   float: left;
+  margin-right: 0.5em;
 }
 
 .instagram {
-  width: 33.33%;
+  width: 28%;
   float: left;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
 }
 
 .twitter {
-  width: 33.33%;
+  width: 28%;
   float: left;
+  margin-left: 0.5em;
 }
 
 footer {

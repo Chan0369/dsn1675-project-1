@@ -4,17 +4,18 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="200px" height="200px" viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#4EC3B4;}
-	.st1{fill:#FFFFFF;}
+	.st0{fill:#090685;}
+	.st1{fill:#4EC3B4;}
+	.st2{fill:#FFFFFF;}
 </style>
-<circle cx="99.3" cy="100.3" r="90.8"/>
-<circle class="st0" cx="99.3" cy="100.3" r="80.6"/>
+<circle class="st0" cx="99.3" cy="100.3" r="90.8"/>
+<circle class="st1" cx="99.3" cy="100.3" r="80.6"/>
 <g>
-	<polygon class="st1" points="153.2,71 112,102.6 99.6,112 87.3,102.7 46.1,71 	"/>
-	<polygon class="st1" points="153.4,71 153.2,71 46.1,71 45.9,71 	"/>
-	<polygon class="st1" points="152.1,137 46.9,137 86.5,103.9 99.7,114.5 112.8,104 	"/>
-	<polygon class="st1" points="47,72.4 47,135.7 85.9,102.9 	"/>
-	<polygon class="st1" points="152,72.9 152,135.2 113.4,102.9 	"/>
+	<polygon class="st2" points="153.2,71 112,102.6 99.6,112 87.3,102.7 46.1,71 	"/>
+	<polygon class="st2" points="153.4,71 153.2,71 46.1,71 45.9,71 	"/>
+	<polygon class="st2" points="152.1,137 46.9,137 86.5,103.9 99.7,114.5 112.8,104 	"/>
+	<polygon class="st2" points="47,72.4 47,135.7 85.9,102.9 	"/>
+	<polygon class="st2" points="152,72.9 152,135.2 113.4,102.9 	"/>
 </g>
 <g>
 </g>
