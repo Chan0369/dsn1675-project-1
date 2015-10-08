@@ -64,6 +64,10 @@ p {
   margin-right: 1.5em;
 }
 
+.contact {
+  background-color: white;
+}
+
 .social-media {
   overflow: hidden;
 }
@@ -87,4 +91,5 @@ footer {
   background-color: #4ec3b4;
   font-family: 'Josefin Sans', sans-serif;
   padding: 1em;
+  margin: 0;
 }
