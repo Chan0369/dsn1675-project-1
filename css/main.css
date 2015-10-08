@@ -110,10 +110,16 @@ footer {
   margin: 0 auto;
 }
 
-@media only screen and (min-width: 40em) {
+
+@media only screen and (min-width: 38em) {
 
   .bc {
     width: 30%;
+  }
+
+  .info {
+    margin-left: 8em;
+    margin-right: 8em;
   }
 
   .social-media {
@@ -130,6 +136,10 @@ footer {
 
   .twitter {
     width: 20%;
+  }
+
+  footer {
+    padding: 2em 1em 10em 1em;
   }
 
 }
