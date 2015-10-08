@@ -114,7 +114,7 @@ footer {
 @media only screen and (min-width: 20em) {
 
   .bc {
-    width: 30%;
+    width: 45%;
   }
 
   .info {
@@ -123,23 +123,53 @@ footer {
   }
 
   .social-media {
-    margin-left: 9em;
+    margin: 0 auto;
+    padding-left: 0.5em;
   }
 
   .email {
-    width: 30%;
+    width: 28%;
   }
 
   .instagram {
-    width: 30%;
+    width: 28%;
   }
 
   .twitter {
-    width: 30%;
+    width: 28%;
   }
 
   footer {
     padding: 2em 1em 5em 1em;
+  }
+
+}
+
+@media only screen and (min-width: 42em) {
+
+  .bc {
+    width: 30%;
+  }
+
+  .info {
+    margin-left: 10em;
+    margin-right: 10em;
+  }
+
+  .social-media {
+    margin-left: 12em;
+  }
+
+  .email {
+    width: 20%;
+  }
+
+  .instagram {
+    width: 20%;
+  }
+
+  .twitter {
+    width: 20%;
   }
 
 }
