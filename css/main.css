@@ -16,10 +16,6 @@ html {
   box-sizing: inherit;
 }
 
-head {
-  margin-top: 0;
-}
-
 img {
   margin: 0;
   width: 100%;
@@ -32,6 +28,8 @@ body {
 
 .header {
   background-color: #4ec3b4;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .bc {
