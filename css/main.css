@@ -28,7 +28,6 @@ body {
 
 .header {
   background-color: #4ec3b4;
-  position: relative;
 }
 
 .bc {
@@ -36,10 +35,6 @@ body {
   margin: 1em auto;
   border: 15px solid black;
   border-radius: 8em;
-}
-
-.content {
-  position: absolute;
 }
 
 h1 {
