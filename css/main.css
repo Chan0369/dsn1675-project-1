@@ -63,6 +63,7 @@ p {
 .info {
   margin-left: 1.5em;
   margin-right: 1.5em;
+  color: darkblue;
 }
 
 .contact {
@@ -96,6 +97,15 @@ p {
 footer {
   background-color: #4ec3b4;
   font-family: 'Josefin Sans', sans-serif;
-  padding: 1em;
+  font-size: 0.5em;
+  padding: 2em 1em 5em 1em;
   margin: 0;
+}
+
+.f1 {
+  margin: 0 auto;
+}
+
+.f2 {
+  margin: 0 auto;
 }
