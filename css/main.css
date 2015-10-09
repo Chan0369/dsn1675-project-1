@@ -73,7 +73,13 @@ p {
 
 .social-media {
   overflow: hidden;
+  width: 0 auto;
+  text-align: center;
 }
+
+  .social-media a {
+    display: inline-block;
+  }
 
 .email {
   width: 28%;
@@ -124,7 +130,7 @@ footer {
 
   .social-media {
     margin: 0 auto;
-    padding-left: 0.5em;
+    text-align: center;
   }
 
   .email {
