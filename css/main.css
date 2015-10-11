@@ -73,7 +73,6 @@ p {
 
 .social-media {
   overflow: hidden;
-  width: 0 auto;
   text-align: center;
 }
 
@@ -82,20 +81,20 @@ p {
   }
 
 .email {
-  width: 28%;
+  width: 28.2%;
   float: left;
   margin-right: 0.5em;
 }
 
 .instagram {
-  width: 28%;
+  width: 28.2%;
   float: left;
   margin-left: 0.5em;
   margin-right: 0.5em;
 }
 
 .twitter {
-  width: 28%;
+  width: 28.2%;
   float: left;
   margin-left: 0.5em;
 }
