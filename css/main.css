@@ -80,7 +80,7 @@ p {
     display: inline-block;
   }
 
-.email {
+.tumblr {
   width: 28.2%;
   float: left;
   margin-right: 0.5em;
@@ -132,7 +132,7 @@ footer {
     text-align: center;
   }
 
-  .email {
+  .tumblr {
     width: 28%;
   }
 
@@ -171,7 +171,7 @@ footer {
     margin-left: 12em;
   }
 
-  .email {
+  .tumblr {
     width: 20%;
   }
 
@@ -221,7 +221,7 @@ footer {
     padding-left: 12em;
   }
 
-  .email {
+  .tumblr {
     width: 15%;
   }
 
