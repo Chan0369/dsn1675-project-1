@@ -237,30 +237,41 @@ footer {
 
 @media print {
 
+  main {
+    background-color: #4ec3b4;
+  }
+
+  p {
+    background-color: #4ec3b4;
+    padding: 3em;
+  }
+
   .bc {
     width: 20%;
     float: left;
+    margin: 0;
   }
 
   .chan {
     width: 70%;
-    float: right;
+    float: left;
   }
 
   .social-media {
-    overflow: hidden;
-  }
+    text-align: center;
+    width: 0 auto;
+}
 
   .tumblr {
-    width: 80%;
+    width: 20%;
   }
 
   .instagram {
-    width: 80%;
+    width: 20%;
   }
 
   .twitter {
-    width: 80%;
+    width: 20%;
   }
 
   footer {
