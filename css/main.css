@@ -237,6 +237,32 @@ footer {
 
 @media print {
 
+  .bc {
+    width: 20%;
+    float: left;
+  }
+
+  .chan {
+    width: 70%;
+    float: right;
+  }
+
+  .social-media {
+    overflow: hidden;
+  }
+
+  .tumblr {
+    width: 80%;
+  }
+
+  .instagram {
+    width: 80%;
+  }
+
+  .twitter {
+    width: 80%;
+  }
+
   footer {
     display: none;
   }
