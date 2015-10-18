@@ -58,6 +58,7 @@ p {
   width: 100% auto;
   text-align: center;
   color: white;
+  margin: 0;
 }
 
 .info {
@@ -97,6 +98,10 @@ p {
   width: 28.2%;
   float: left;
   margin-left: 0.5em;
+}
+
+.me {
+  display: none;
 }
 
 footer {
@@ -237,21 +242,29 @@ footer {
 
 @media screen {
 
-  body {
+  main {
     border: 3px solid grey;
     width: 3.5in;
     height: 2in;
+    background: #fff;
   }
 
   h1 {
-    font-size: 2em;
+    font-size: 3em;
+    text-align: center;
+    color: white;
   }
 
   p {
     margin: 0;
+    color: grey;
   }
 
   .info {
+    display: none;
+  }
+
+  .contact {
     display: none;
   }
 
@@ -259,12 +272,13 @@ footer {
     display: none;
   }
 
-  .chan {
-    float: left;
-  }
-
   .social-media {
     display: none;
+  }
+
+  .me {
+    display: inline;
+    padding: 1em;
   }
 
   footer {
