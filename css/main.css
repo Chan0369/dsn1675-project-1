@@ -247,8 +247,12 @@ footer {
     font-size: 2em;
   }
 
-  .info {
+  p {
     margin: 0;
+  }
+
+  .info {
+    display: none;
   }
 
   .bc {
@@ -260,20 +264,7 @@ footer {
   }
 
   .social-media {
-    text-align: center;
-    width: 0 auto;
-}
-
-  .tumblr {
-    width: 20%;
-  }
-
-  .instagram {
-    width: 20%;
-  }
-
-  .twitter {
-    width: 20%;
+    display: none;
   }
 
   footer {
