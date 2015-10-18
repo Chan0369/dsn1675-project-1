@@ -235,24 +235,27 @@ footer {
 
 }
 
-@media print {
+@media screen {
 
-  main {
-    background-color: #4ec3b4;
+  body {
+    border: 3px solid grey;
+    width: 3.5in;
+    height: 2in;
   }
 
-  p {
-    background-color: #4ec3b4;
+  h1 {
+    font-size: 2em;
   }
 
-  .bc {
-    width: 20%;
-    float: left;
+  .info {
     margin: 0;
   }
 
+  .bc {
+    display: none;
+  }
+
   .chan {
-    width: 70%;
     float: left;
   }
 
