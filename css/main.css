@@ -240,19 +240,22 @@ footer {
 
 }
 
-@media print {
+@media screen {
 
   main {
     border: 3px solid grey;
+    border-radius: 10px;
     width: 3.5in;
     height: 2in;
     background: #fff;
   }
 
   h1 {
+    width: 100%;
     font-size: 3em;
     text-align: center;
     color: white;
+    margin: 0 auto;
   }
 
   p {
@@ -279,6 +282,7 @@ footer {
   .me {
     display: inline;
     padding: 1em;
+    margin: 0 auto;
   }
 
   footer {
